@@ -4,7 +4,10 @@
 #include "utils.h"
 
 
+using namespace std;
 
+/// @brief 
+/// @return 
 int main() {
     // Initialize the game
     Player player = createPlayer();

@@ -13,6 +13,9 @@ Player createPlayer() {
     p.defense = 20;
     p.gold = 0;
 
+
+    return p;
+
 };
 
 void displayStats(const Player& p) {
