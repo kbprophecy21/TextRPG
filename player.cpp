@@ -18,7 +18,6 @@ Player createPlayer() {
 void displayStats(const Player& p) {
     cout << "\n-- Player Stats --\n";
     cout << "Name: " << p.name << "\nHealth: " << p.health << "\nAttack: " << p.attack << "\nDefense: " << p.defense << "\nGold: " << p.gold << "\n";
-    
 
 };
 
